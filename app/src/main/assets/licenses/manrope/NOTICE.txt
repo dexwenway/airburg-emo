@@ -1,0 +1,22 @@
+Manrope
+=======
+
+Bundled font file : app/src/main/res/font/manrope.ttf
+Font version      : 4.505 (font name table, nameID 5)
+Family / style    : Manrope ExtraLight (nameID 1 and 17)
+Copyright         : Copyright 2019 The Manrope Project Authors
+                    (https://github.com/googlefonts/manrope)
+License           : SIL Open Font License, Version 1.1
+                    Full text: OFL.txt
+
+The font's own name table states (nameID 13):
+  "This Font Software is licensed under the SIL Open Font License,
+   Version 1.1. This license is available with a FAQ at:
+   https://openfontlicense.org"
+
+License source: https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt
+
+The upstream OFL.txt for Manrope prints the copyright year 2018. This copy
+uses the 2019 line recorded in the bundled font's name table (nameID 0), so
+the copyright notice matches the binary that is actually distributed. The
+license body is reproduced verbatim and is unmodified.
