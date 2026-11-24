@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="docs/media/hero.png" width="760" alt="EMO 空气堡客户端：浅色 46、深色 425 与趋势面板">
-</p>
-
 # EMO 空气堡 · 现代客户端
 
 为闲置的 Airburg EMO PM2.5 检测仪重写的 Android 客户端。Android 8.0 起 · 仅支持一代 EMO · 数据只留在本机。
 
-## 下载安装
+<p align="center">
+  <img src="docs/media/hero.png" width="760" alt="EMO 空气堡客户端：浅色 46、深色 425 与趋势面板">
+</p>
 
-从 [Releases](https://github.com/dexwenway/airburg-emo/releases/latest) 下载最新的 APK 安装。第一次连接需要在系统弹窗里允许蓝牙；Android 8–11 还要授予定位权限并打开系统定位，旧系统的 BLE 扫描依赖它。
+十几年前在优酷的科技视频里第一次见到它——那正是国内开始集体关注 PM2.5 的年代。后来厂商转做净化设备，配套 App 停止更新，Android 升级后它再也打不开，就一直在角落里吃灰。最近雾霾又起，想起这台小仪器，恰好 AI 编程已经够用，于是重写了这个客户端。
 
 手边没有设备也可以先装上看看：打开设置里的「模拟数据」，拖动模拟浓度滑杆，七档空气状态都能预览。
 
-十几年前在优酷的科技视频里第一次见到它——那正是国内开始集体关注 PM2.5 的年代。后来厂商转做净化设备，配套 App 停止更新，Android 升级后它再也打不开，就一直在角落里吃灰。最近雾霾又起，想起这台小仪器，恰好 AI 编程已经够用，于是重写了这个客户端。
+## 下载安装
+
+从 [Releases](https://github.com/dexwenway/airburg-emo/releases/latest) 下载最新的 APK 安装。第一次连接需要在系统弹窗里允许蓝牙；Android 8–11 还要授予定位权限并打开系统定位，旧系统的 BLE 扫描依赖它。
 
 ## 界面与记录
 
